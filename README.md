@@ -1,4 +1,4 @@
-# JavaScript-Java
+# JavaScript
 JavaScript – Introduction
 
 What is JavaScript?
